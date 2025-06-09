@@ -1,3 +1,4 @@
+
 # Вопросы для собеседования Python Junior
 
 - [1. Виды типизации](https://github.com/markdrrr/interview_questions_python_junior/blob/main/README.md#1-виды-типизации)
